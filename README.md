@@ -44,3 +44,6 @@ Tried and tested with GPT-3.5-turbo model from OpenAI
 4. Update your OpenAI key and other related details in .env file
 5. Run RunApp.sh
 6. Access MyPyTalks with http://localhost:2177
+7. You could also run MyPyTalks in Console only mode by starting the same in Console mode. Use the below command
+   
+        ./RunApp.sh --mode console
