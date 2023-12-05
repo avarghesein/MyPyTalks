@@ -1,0 +1,18 @@
+who am i?
+What the current linux distribution name?
+delete all files in my download directory which are 2 months old.
+which all files in my download directory modified last two weeks?. show count
+Kill the vscode process
+who all are the users of the system?
+which all files in my download directory having more than 10 lines?
+which all files in my download directory having more than 5MB? show count
+show all files modified till last month. show file name only in descending order
+which all kernel modules are available?
+Show total memory
+Show the cpu cores available
+Show current system load
+what is the current swappiness?
+when the files sytem was created
+which all are mounted under /media
+show free memory in MB
+show the contents of  ~/.profile
